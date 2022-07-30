@@ -1,0 +1,9 @@
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\bin\Debug\netcoreapp3.1\Tri.deps.json
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\bin\Debug\netcoreapp3.1\Tri.dll
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\bin\Debug\netcoreapp3.1\Tri.pdb
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\obj\Debug\netcoreapp3.1\Tri.csprojAssemblyReference.cache
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\obj\Debug\netcoreapp3.1\Tri.AssemblyInfoInputs.cache
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\obj\Debug\netcoreapp3.1\Tri.AssemblyInfo.cs
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\obj\Debug\netcoreapp3.1\Tri.csproj.CoreCompileInputs.cache
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\obj\Debug\netcoreapp3.1\Tri.dll
+C:\Users\ayman\Desktop\Bureau.old\Hiver2021\Gestion de projets\TPs\Tp3\TP3_Tests\TriParInsertion\obj\Debug\netcoreapp3.1\Tri.pdb
